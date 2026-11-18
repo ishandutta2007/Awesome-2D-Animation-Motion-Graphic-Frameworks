@@ -58,9 +58,9 @@ The table below outlines key commercial tools and SaaS animation suites, sorted 
 
 ## 🌟 Top Open-Source Frameworks & Libraries
 
-Curated open-source animation engines, frameworks, programmatic video generators, and desktop suites. Sorted by GitHub **Star Count** (descending).
+Curated open-source animation engines, frameworks, programmatic video generators, and desktop suites. Sorted by GitHub **Stars_Count** (descending).
 
-| Project | Stars | Primary Language / Stack | Architecture & Description |
+| Project | GitHub_Stars | Primary Language / Stack | Architecture & Description |
 | :--- | :--- | :--- | :--- |
 | **[anime.js](https://github.com/juliangarnier/anime)** | [![Stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers) | JavaScript / TypeScript | Lightweight JavaScript animation engine with a clean API for CSS properties, SVG paths, DOM attributes, and JS objects. |
 | **[Remotion](https://github.com/remotion-dev/remotion)** | [![Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | React / TypeScript | Programmatic video creation suite using web technologies; write React components to render 2D motion graphics and export server-side MP4s. |
@@ -142,7 +142,7 @@ Contributions are welcome! Please follow these steps to add or update projects:
 2. 🌿 Create a descriptive branch: `git checkout -b feature/add-new-framework`.
 3. ✏️ Add your entry adhering to alphabetical or star-count sorting:
    * **For SaaS:** Include platform name, company scale/valuation, specific starting tier price, and specific free tier/trial limits.
-   * **For Open-Source:** Include repo link, social star badge (`style=social&color=white`), core stack, and description.
+   * **For Open-Source:** Include repo link, social Stars_Badge (`style=social&color=white`), core stack, and description.
 4. 🚀 Commit your updates: `git commit -m "feat: add NewFramework to open-source list"`.
 5. 📤 Push your branch and open a **Pull Request**.
 

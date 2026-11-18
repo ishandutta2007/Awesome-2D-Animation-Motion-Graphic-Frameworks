@@ -4,9 +4,11 @@
 
 # 🎬 Awesome 2D Animation & Motion Graphic Frameworks
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-2D-Animation-Motion-Graphic-Frameworks/pulls)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **The definitive, curated ecosystem directory of SaaS platforms, commercial suites, skeletal engines, vector runtimes, and open-source creative motion graphics code.**  
 > Focused on 2D skeletal rigging, inverse kinematics (IK), vector tweening, frame-by-frame raster animation, and programmatic web/game runtimes.
@@ -21,6 +23,8 @@
 - [🧩 Specialized Animation Ecosystems](#-specialized-animation-ecosystems)
 - [🛠️ Pipeline Architecture Suggestions](#-pipeline-architecture-suggestions)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#--star-history)
 - [⚖️ Disclaimer & Licensing](#️-disclaimer--licensing)
 
 ---
@@ -141,6 +145,24 @@ Contributions are welcome! Please follow these steps to add or update projects:
    * **For Open-Source:** Include repo link, social star badge (`style=social&color=white`), core stack, and description.
 4. 🚀 Commit your updates: `git commit -m "feat: add NewFramework to open-source list"`.
 5. 📤 Push your branch and open a **Pull Request**.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome 2D Animation & Motion Graphic Frameworks** directory! 🎉
+
+If you find this repository helpful for your projects, pipelines, or creative journey, please consider supporting it:
+* ⭐ **Star** this repository to help other animators, developers, and motion designers discover it.
+* 🍴 **Fork** and contribute new frameworks, runtimes, or tools.
+* 📢 **Share** it with your developer and creative technologist communities.
+* ☕ **Buy a Coffee / Sponsor**: Show extra love by supporting via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-2D-Animation-Motion-Graphic-Frameworks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-2D-Animation-Motion-Graphic-Frameworks&type=date&legend=top-left)
 
 ---
 
